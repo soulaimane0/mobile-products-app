@@ -48,3 +48,8 @@ npx expo start
 
 - For iOS: Press `i` in the terminal or scan the QR code with the Expo Go app
 - For Android: Press `a` in the terminal or scan the QR code with the Expo Go app
+
+![Product List Screen](./assets/images/screenshots/products_list.png)
+![Product Details Screen](./assets/images/screenshots/product-details.png)
+![Add Product Screen](./assets/images/screenshots/add_product.png)
+![Delete Product Screen](./assets/images/screenshots/delete_product.png)
