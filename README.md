@@ -26,8 +26,8 @@ A simple React Native mobile application for managing products. Built with Expo,
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/product-management-app.git
-cd product-management-app
+git clone https://github.com/soulaimane0/mobile-products-app.git
+cd mobile-products-app
 ```
 
 2. **Install dependencies**
